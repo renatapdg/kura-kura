@@ -1,0 +1,5 @@
+rabu,21 september 2022
+-belajar git and github 
+-cara membuat github
+cara creat file and commit berulang
+-branch
